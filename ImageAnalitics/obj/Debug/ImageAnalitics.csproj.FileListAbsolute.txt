@@ -1,0 +1,9 @@
+D:\code\Repository\Console.Dev\ImageAnalitics\ImageAnalitics\bin\Debug\ImageAnalitics.exe.config
+D:\code\Repository\Console.Dev\ImageAnalitics\ImageAnalitics\bin\Debug\ImageAnalitics.exe
+D:\code\Repository\Console.Dev\ImageAnalitics\ImageAnalitics\bin\Debug\ImageAnalitics.pdb
+D:\code\Repository\Console.Dev\ImageAnalitics\ImageAnalitics\obj\Debug\ImageAnalitics.csprojResolveAssemblyReference.cache
+D:\code\Repository\Console.Dev\ImageAnalitics\ImageAnalitics\obj\Debug\ImageAnalitics.Form1.resources
+D:\code\Repository\Console.Dev\ImageAnalitics\ImageAnalitics\obj\Debug\ImageAnalitics.Properties.Resources.resources
+D:\code\Repository\Console.Dev\ImageAnalitics\ImageAnalitics\obj\Debug\ImageAnalitics.csproj.GenerateResource.Cache
+D:\code\Repository\Console.Dev\ImageAnalitics\ImageAnalitics\obj\Debug\ImageAnalitics.exe
+D:\code\Repository\Console.Dev\ImageAnalitics\ImageAnalitics\obj\Debug\ImageAnalitics.pdb
